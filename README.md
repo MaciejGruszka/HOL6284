@@ -13,6 +13,8 @@ This tutorial demonstrates how to:
 
 ### Prerequisites ###
 
+(ALL THESE SERVICESE WERE PRECREATED ALREADY BEFORE OOW FOR HOL PARTICIPANTS)
+
 + Oracle Public Cloud Services account including:
 	+ Database Cloud Service
 	+ Java Cloud Service
